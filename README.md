@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mitish Raina!
 
 ### 🚀 About Me
-I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, constantly exploring the exciting intersection of **web development**, **machine learning**, and **artificial intelligence**. From creating impactful hackathon-winning projects to building innovative tools, I'm driven by a love for solving complex problems and making ideas come to life.
+I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Institute of Professional Studies-TC**, constantly exploring the exciting intersection of **WEB DEVELOPMENT**, **MACHINE LEARNING**, and **ARTIFICIAL INTELLIGENCE**. From creating impactful hackathon-winning projects to building innovative tools, I'm driven by a love for solving complex problems and making ideas come to life.
 
 ---
 
