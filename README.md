@@ -6,12 +6,13 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 ---
 
 ### 🛠️ Tech Stack
-- **Programming Languages**: Python, JavaScript  
-- **Frameworks & Tools**: Flask, FastAPI, Django  
+- **Programming Languages**: Python, JavaScript, HTML5, CSS3
+- **Frameworks & Tools**: Flask, FastAPI, Django
 - **Machine Learning**: scikit-learn, TensorFlow (beginner-level, learning in progress)  
 - **Blockchain**: Aptos, MetaMask  
 - **Databases**: MongoDB, Sqlite
 - **Other Tools**: Git, github, vscode
+- **Familarity**: ReactJs, C, C#
 
 ---
 
