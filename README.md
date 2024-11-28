@@ -15,7 +15,6 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 - **Familarity**: ReactJs, C, C#
 
 <div align="left">
-  <a href="https://imgflip.com/i/9by8k1"><img src="https://i.imgflip.com/9by8k1.jpg" height="150px" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,6 +38,7 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <a href="https://imgflip.com/i/9by8k1"><img src="https://i.imgflip.com/9by8k1.jpg" height="150px" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 </div>
 
 ---
