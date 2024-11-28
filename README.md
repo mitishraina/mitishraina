@@ -48,27 +48,27 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 
 ---
 
-### 🌟 Achievements
-# 🏆 **Hackvortex Hackathon Winner, JIMS Rohini Sec-5**
+# 🌟 Achievements
+### 🏆 **Hackvortex Hackathon Winner, JIMS Rohini Sec-5**
 
 **Project BlazeSentry**: Developed an advanced evacuation solution utilizing Web3 technology to ensure safety during emergencies in buildings and other locations. The solution aimed at providing real-time safe routes for users and enabled firefighters to locate individuals without the app via blockchain integration. Successfully competed among numerous teams, secured a spot in the top 12 finalists, and emerged as champions!
 
-# 💡**Efficiency Improvements**:
+### 💡**Efficiency Improvements**:
 
 - **Optimized Route Planning**: Enhanced algorithm efficiency by 25%, reducing response times for identifying safe evacuation paths.
 - **Real-Time Tracking**: Integrated a highly efficient location-tracking system with improved accuracy for pinpointing user positions during emergencies.
 - **Scalable Infrastructure**: Designed a cost-effective, scalable system capable of handling increased user loads without degradation in performance.
 
 ---
-# 🏆 **CyberCup 4.0 Hackathon Winner, Amity Noida**
+### 🏆 **CyberCup 4.0 Hackathon Winner, Amity Noida**
 
 **Project DadduCare**: Created a cutting-edge platform aimed at enhancing **elderly care** by integrating modern technologies to address their specific needs. The project is designed to ensure a safe, efficient, and user-friendly experience for seniors and their caregivers.
-# Key Features:
+### Key Features:
 - **Emergency Assistance**: A one-touch SOS feature to notify family members or emergency services during critical situations.
 - **Health Monitoring**: Real-time tracking of vital parameters like heart rate and step count, with timely alerts for irregularities.
 - **Medication Reminders**: Customizable reminders to ensure timely medication intake, reducing the risk of missed doses.
 - **User-Friendly Interface**: Simplified navigation and voice-guided assistance tailored to elderly users.
-# 💡**Efficiency Improvements**:
+### 💡**Efficiency Improvements**:
 
 - **Optimized Resource Allocation**: Reduced system lag and response time by 30% to ensure real-time emergency alerts.
 - **Enhanced Machine Learning Models**: Integrated AI-driven health monitoring with 25% improved prediction accuracy for detecting irregular health patterns.
@@ -76,8 +76,8 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 
 ---
 
-### 🔥 Current Projects
-1. **Kryptapp**
+# 🔥 Current Projects
+### 1. **Kryptapp**
 A cutting-edge application focused on **simplifying crypto payments** by providing a secure, seamless, and user-friendly platform for transactions.
 Leveraging **ondemand.ai** to develop an advanced plugin that integrates a finance AI model for enhanced functionality.
   **Plugin Features**:
@@ -86,13 +86,13 @@ Leveraging **ondemand.ai** to develop an advanced plugin that integrates a finan
  - **Stock Suggestions**: AI-powered insights to assist users in exploring traditional and crypto investments.
  - Built on the Aptos blockchain, ensuring high-speed, secure, and transparent transactions.
 
-2. **Learning Artificial Intelligence**
+### 2. **Learning Artificial Intelligence**
  - Actively enhancing my expertise in artificial intelligence by exploring concepts such as machine learning, deep learning, and natural language processing.
  - Engaging in hands-on projects to apply theoretical knowledge to practical problems, including developing predictive models and data-driven solutions.
  - Currently enrolled in comprehensive courses to advance my skills from beginner to intermediate/advanced levels, with a focus on building real-world AI applications.
 ---
 
-### 📫 Let's Connect!
+# 📫 Let's Connect!
 
 <p>✨ Let's connect! Feel free to visit my profiles and reach out:</p>
 
