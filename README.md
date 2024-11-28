@@ -49,7 +49,7 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 ---
 
 ### 🌟 Achievements
-# 🏆 **Hackvortex Hackathon Winner, Amity Noida**
+# 🏆 **Hackvortex Hackathon Winner, JIMS Rohini Sec-5**
 
 **Project BlazeSentry**: Developed an advanced evacuation solution utilizing Web3 technology to ensure safety during emergencies in buildings and other locations. The solution aimed at providing real-time safe routes for users and enabled firefighters to locate individuals without the app via blockchain integration. Successfully competed among numerous teams, secured a spot in the top 12 finalists, and emerged as champions!
 
@@ -60,7 +60,7 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 - **Scalable Infrastructure**: Designed a cost-effective, scalable system capable of handling increased user loads without degradation in performance.
 
 ---
-# 🏆 **CyberCup 4.0 Hackathon Winner, JIMS Rohini Sec-5**
+# 🏆 **CyberCup 4.0 Hackathon Winner, Amity Noida**
 
 **Project DadduCare**: Created a cutting-edge platform aimed at enhancing **elderly care** by integrating modern technologies to address their specific needs. The project is designed to ensure a safe, efficient, and user-friendly experience for seniors and their caregivers.
 # Key Features:
