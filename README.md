@@ -16,7 +16,6 @@ I'm a **Artificial Intelligence and Data Science** student at **VIPS-TC**, const
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/9by0mu"  />
 
 ###
 
