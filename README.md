@@ -35,7 +35,7 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style= "background-color: white; color: white;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"/>
   <a href="https://imgflip.com/i/9by8k1"><img src="https://i.imgflip.com/9by8k1.jpg" height="150px" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 </div>
 
