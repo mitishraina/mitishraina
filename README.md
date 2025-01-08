@@ -7,12 +7,10 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
 
 ### 🛠️ Tech Stack
 - **Programming Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks & Tools**: Flask, FastAPI, Django
-- **Machine Learning**: scikit-learn, TensorFlow (beginner-level, learning in progress)  
-- **Blockchain**: Aptos, MetaMask  
+- **Frameworks & Tools**: Nodejs, Expressjs, Reactjs, Flask, FastAPI
 - **Databases**: MongoDB, Sqlite
 - **Other Tools**: Git, github, vscode
-- **Familarity**: ReactJs, C, C#
+- **Familarity**: C, Flutter, C#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
