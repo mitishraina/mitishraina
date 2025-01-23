@@ -7,7 +7,7 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
 
 ### 🛠️ Tech Stack
 - **Programming Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks & Tools**: Nodejs, Expressjs, Reactjs, Flask, FastAPI
+- **Frameworks & Tools**: Nodejs, Expressjs, Reactjs, Flask, FastAPI, TailwindCSS
 - **Databases**: MongoDB, Sqlite
 - **Other Tools**: Git, github, vscode
 - **Familarity**: C, Flutter, C#
