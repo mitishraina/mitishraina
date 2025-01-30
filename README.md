@@ -27,7 +27,7 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="reactjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img src="https://ih1.redbubble.net/image.5527411452.4567/st,small,507x507-pad,600x600,f8f8f8.jpg" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoZsMBFkU9ArhUL_HlgeESChICNA1cZcIZg&s" height="30" alt="tailwindcss logo"  />
   <img width="12" />
@@ -37,7 +37,7 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26-3joWhbPHeJUl9Ng6jqS2-IOaQLTIDjww&s" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
   <img width="12" />
