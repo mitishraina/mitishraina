@@ -7,10 +7,10 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
 
 ### 🛠️ Tech Stack
 - **Programming Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks & Tools**: Nodejs, Expressjs, Reactjs, Flask, FastAPI, TailwindCSS
+- **Frameworks & Tools**: Node.js, Express.js, React.js, Flask, TailwindCSS
 - **Databases**: MongoDB, Sqlite
-- **Other Tools**: Git, github, vscode
-- **Familarity**: C, Flutter, C#
+- **Other Tools**: Git, github, Postman
+- **Familarity**: C, Flutter, Web3, Firebase
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
