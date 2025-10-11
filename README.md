@@ -10,13 +10,6 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
 - 📫 How to reach me **rainamitish7@gmail.com**
 ---
 
-### 🛠️ Tech Stack
-- **Programming Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks & Tools**: Node.js, Express.js, React.js, Flask, TailwindCSS
-- **Databases**: MongoDB, Sqlite
-- **Other Tools**: Git, github, Postman
-- **Familarity**: C, Flutter, Web3, Firebase
-
 <div align="left" style="background: white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -72,20 +65,6 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
----
-
-### 💻 On My Wishlist
-- Expanding my knowledge of **advanced machine learning algorithms**.  
-- Collaborating on open-source projects to contribute to impactful communities.  
-- Enhancing my software and AI-ML development skills.
-
----
-
-### 🏗️ Fun Facts
-- Always up for brainstorming innovative solutions for real-world problems.  
-- Love hackathons and bringing creative ideas to life.
-- Loves playing chess and likes to run.
 
 ---
 
