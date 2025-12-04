@@ -5,10 +5,18 @@
 </div>
 
 
-### 🚀 About Me
+### About Me
 I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Institute of Professional Studies-TC**, constantly exploring the exciting intersection of **WEB DEVELOPMENT**, **MACHINE LEARNING**, and **ARTIFICIAL INTELLIGENCE**. From creating impactful hackathon-winning projects to building innovative tools, I'm driven by a love for solving complex problems and making ideas come to life.
-- 📫 How to reach me **rainamitish7@gmail.com**
+- How to reach me **mitishraina.dev@gmail.com**
 ---
+
+### Tech stack: DL, ML, NLP, MERN, TypeScript, MongoDB, MySQL, Docker, Kubernetes
+
+Interned previously at two different startups, Pagaar AI, where I contributed to building intelligent hiring systems. Another one, Park-It-Up, where i enhanced frontend performance, improved user experience, and optimized backend data handling.
+
+Alongside software development, I have worked with TensorFlow, scikit-learn, and FFmpeg etc, bridging web engineering with AI-driven solutions. As a 4x hackathon winner, I perform good in fast-paced environments, delivering creative, impactful solutions that combine innovation and scalability.
+
+Currently, I'm building stuff in Full Stack AI applications, and DL applications & their end-to-end pipelines.
 
 <div align="left" style="background: white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -58,7 +66,7 @@ I'm a **Artificial Intelligence and Data Science** student at **Vivekananda Inst
   <a href="https://www.instagram.com/mitishraina" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:your-rainamitish7@gmail.com" target="_blank">
+  <a href="mailto:your-mitishraina.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/mitishraina" target="_blank">
