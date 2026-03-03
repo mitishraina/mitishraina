@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-I'm currently working on BackPropLabs implementing every single algo in ML from scratch using only maths<br>Seeking MLE or Research based roles<br>Ask me about AutoTuneNet<br>Fun fact: I'm either coding, researching, in the gym, playing chess. And if not i went on a 5km run lol
+- I'm currently working on BackPropLabs implementing every single algo in ML from scratch using only maths<br>- Seeking MLE or Research based roles<br>- Ask me about AutoTuneNet<br>- Fun fact: I'm either coding, researching, in the gym, playing chess. And if not i went on a 5km run lol
 
 
 ## 🌐 Socials:
